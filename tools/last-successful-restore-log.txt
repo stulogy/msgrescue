@@ -1,0 +1,26 @@
+Backup directory is "/path/to/Messages-only-restore"
+Started "com.apple.mobilebackup2" service on port 49324.
+Negotiated Protocol Version 2.1
+Reading Info.plist from backup.
+Starting Restore...
+Restoring system files: Yes
+Rebooting after restore: Yes
+Don't copy backup: Yes
+Preserve settings of device: Yes
+Remove items that are not restored: No
+Backup password: No
+Not writing RestoreApplications.plist - apps will not be re-installed after restore
+Sending '<UDID>/Manifest.plist' (225.3 KB)
+Sending '<UDID>/Manifest.db' (32.8 KB)
+Sending '<UDID>/Status.plist' (488 Bytes)
+Sending '<UDID>/Manifest.plist' (225.3 KB)
+Sending '<UDID>/Manifest.db' (32.8 KB)
+Sending '<UDID>/Info.plist' (9.8 MB)
+[=                                                 ]   0% Finished
+Sending '<UDID>/3d/3d0d7e5fb2ce288813306e4d4636395e047a3d28' (816.0 MB)
+[==================================================] 100% Finished
+Sending '<UDID>/36/36ce215df2239f14660f11541cb64a3f790c95cd' (32.8 KB)
+Sending '<UDID>/cd/cd47480f213dba9bc38ee792775d17e3f5a73a59' (32 Bytes)
+[==================================================] 100% Finished
+The device should reboot now.
+Restore Successful.

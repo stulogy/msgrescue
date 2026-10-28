@@ -1,0 +1,7 @@
+.build/
+*.xcodeproj
+.DS_Store
+# outputs: never commit a rescue folder
+*Messages Rescue/
+Messages-only-restore/
+__pycache__/
